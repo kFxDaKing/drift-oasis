@@ -39,5 +39,5 @@ https://www.loom.com/share/84dfe9834a25441cba71b3689054aa2b
 * [Discord Server](https://discord.com/invite/924Kze6)
 
 **Want to see more of my work?**
-* [Crimelab Rroleplay](https://crimelabroleplay.com/)([165.22.232.187:30120](fivem://connect/165.22.232.187:30120)) *
-* [Drift Oasis](https://driftoasis.com/)([74.91.116.62:30120](fivem://connect/74.91.116.62:30120)) *
+* [Crimelab Rroleplay](https://crimelabroleplay.com/)([165.22.232.187:30120](fivem://connect/165.22.232.187:30120)) 
+* [Drift Oasis](https://driftoasis.com/)([74.91.116.62:30120](fivem://connect/74.91.116.62:30120)) 
