@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <title></title>
+</head>
+<body class="no-select">
+  <div class="ui-container" id="container">
+    <div class="ui-top-nav">
+      
+      <div class="ui-top-nav-content" OnClick="CloseUI()">
+        x
+      </div>
+      <div class="ui-top-nav-content-text">
+        
+      </div>
+    </div>
+    <div class="ui-side-nav" id="nav-container">
+      
+      <div class="ui-side-nav-content" id="nav">
+
+        <div class="ui-player-info">
+          <span id="player_name"></span>
+          <span id="drift_points"></span>
+        </div>
+        
+      <a href="#" id="information"><li id="nav-info" class="active">Information</li></a>
+      <a href="#" id="car" ><li class="">Vehicles</li></a>
+      <a href="#" id="unlockables"><li class="">Vehicle Shop</li></a>
+      <a href="#" id="lscustoms"><li class="">Los Santos Customs</li></a>
+      <a href="#" id="maps"><li class="">Maps</li></a>
+      <a href="#" id="ranks"><li class="">Rank Upgrades</li></a>
+    </div>
+  </div>
+  <div class="ui-body">
+
+    <div class="ui-body-information" id="ui-body-info">
+      <h1>Welcome &nbsp;To drift oasis</h1>
+      <hr>
+      <div class="ui-stats-card">
+        <span>
+          <h3>How does it work?</h3>
+          <p>As you drift you get awarded money that you can spend in the vehicle shop.</br> You can loose your money if you are drifting and hit something or someone.</br> You will only receive money for drifts if you are going over 35KM/H.</br> You can buy cars in the store, unlock more cars by upgrading your rank. </br> You can drift on multiple maps, upgrading your rank will remove the fees.</p>
+        </span>
+        <span class="ui-stats-entry">Total money earned: $<span id="total-earned"></span></span>
+        <span class="ui-stats-entry">Total money spent: $<span  id="money-spent"></span></span>
+        <span class="ui-stats-entry">Cars unlocked: <span  id="cars-unlocked"></span></span>
+        <span class="ui-stats-entry">Cars to unlock: <span  id="cars-locked"></span></span>
+        <span class="ui-stats-entry">Current rank: <span  id="current-rank"></span></span>
+        </div>   
+    </div>
+    
+      <div id="ui-body-car">
+        <h1>Vehicles</h1>
+        <hr>
+        <div id="ui-body-car-list">
+        </div>
+      </div>
+
+      <div id="ui-body-unlockables">
+        <h1>Vehicle	&nbsp;Shop</h1>
+        <hr>
+          <div id="ui-body-unlockables-list">
+          </div>
+      </div>
+      <div id="ui-body-maps">
+        <h1>Maps</h1>
+        <hr>
+        <div id="ui-body-maps-list">
+          <div class='ui-card'>
+            <h4>Home</h4>
+            <button id="ui-vehicle-price">Free</button>
+            <button id="maps-teleport" name-value="gokart" id-value="0" value="0">Teleport</button>
+          </div>
+          <div class='ui-card'>
+            <h4>Ebisu Minami</h4>
+            <button id="ui-vehicle-price">$25k</button>
+            <button id="maps-teleport" name-value="minami" id-value="1" value="25000">Teleport</button>
+          </div>
+          <div class='ui-card'>
+            <h4>Ebisu Touge</h4>
+            <button id="ui-vehicle-price">$25k</button>
+            <button id="maps-teleport" name-value="etouge" id-value="1" value="25000">Teleport</button>
+          </div>
+          <div class='ui-card'>
+            <h4>NFS Canyon</h4>
+            <button id="ui-vehicle-price">$25k</button>
+            <button  id="maps-teleport" name-value="canyon" id-value="1" value="25000">Teleport</button>
+          </div>
+          <div class='ui-card'>
+            <h4>Akina</h4>
+            <button id="ui-vehicle-price">$50k</button>
+            <button id="maps-teleport" name-value="akina" id-value="2" value="50000">Teleport</button>
+          </div>
+          <div class='ui-card'>
+            <h4>Usui</h4>
+            <button id="ui-vehicle-price">$50k</button>
+            <button id="maps-teleport" name-value="usui" id-value="2" value="50000">Teleport</button>
+          </div>
+          <div class='ui-card'>
+            <h4>Deriphill</h4>
+            <button id="ui-vehicle-price">$65k</button>
+            <button id="maps-teleport" name-value="deriphill" id-value="3" value="65000">Teleport</button>
+          </div>
+          <div class='ui-card'>
+            <h4>Harugahara</h4>
+            <button id="ui-vehicle-price">$65k</button>
+            <button id="maps-teleport" name-value="harugahara" id-value="3" value="65000">Teleport</button>
+          </div>
+          <div class='ui-card'>
+            <h4>Motorland</h4>
+            <button id="ui-vehicle-price">$80k</button>
+            <button  id="maps-teleport" name-value="motorland" id-value="4" value="80000">Teleport</button>
+          </div>
+          <div class='ui-card'>
+            <h4>Sekia Hills</h4>
+            <button id="ui-vehicle-price">$80k</button>
+            <button id="maps-teleport" name-value="sekia" id-value="4" value="80000">Teleport</button>
+          </div>
+          <div class='ui-card'>
+            <h4>Project Touge</h4>
+            <button id="ui-vehicle-price">$80k</button>
+            <button id="maps-teleport" name-value="ptouge" id-value="4" value="80000">Teleport</button>
+          </div>
+          <div class='ui-card'>
+            <h4>Tail Of The Dragon</h4>
+            <button id="ui-vehicle-price">$100k</button>
+            <button id="maps-teleport" name-value="dragon" id-value="5" value="100000">Teleport</button>
+          </div>
+          <div class='ui-card'>
+            <h4>Kagarasan</h4>
+            <button id="ui-vehicle-price">$100k</button>
+            <button id="maps-teleport" name-value="kagarasan" id-value="5" value="100000">Teleport</button>
+          </div>
+          <div class='ui-card'>
+            <h4>Mountain Pass (GTA V)</h4>
+            <button id="ui-vehicle-price">Free</button>
+            <button id="maps-teleport" name-value="mountain" id-value="0" value="0">Teleport</button>
+          </div>
+          <div class='ui-card'>
+            <h4>Observatory </br>(GTA V)</h4>
+            <button id="ui-vehicle-price">Free</button>
+            <button id="maps-teleport" name-value="observatory" id-value="0" value="0">Teleport</button>
+          </div>
+          <div class='ui-card'>
+            <h4>Shipping Docks (GTA V)</h4>
+            <button id="ui-vehicle-price">Free</button>
+            <button id="maps-teleport" name-value="docks" id-value="0" value="0">Teleport</button>
+          </div>
+        </div>
+      </div>  
+      <div id="ui-body-lscustoms">
+        <h1>Los &nbsp;Santos &nbsp;Customs</h1>
+        <hr>
+        <div id="ui-body-lscustoms-list">
+          <div class='ui-card'>
+            <h4>Burton St</h4>
+            <button id="ui-vehicle-price">Free</button>
+            <button id="maps-teleport" name-value="burton" id-value="0" value="0">Teleport</button>
+          </div>
+          <div class='ui-card'>
+            <h4>Airport</h4>
+            <button id="ui-vehicle-price">Free</button>
+            <button id="maps-teleport" name-value="lsia" id-value="0" value="0">Teleport</button>
+          </div>
+          <div class='ui-card'>
+            <h4>La Mesa St</h4>
+            <button id="ui-vehicle-price">Free</button>
+            <button id="maps-teleport" name-value="mesa" id-value="0" value="0">Teleport</button>
+          </div>
+          <div class='ui-card'>
+            <h4>Mount Chiliad St</h4>
+            <button id="ui-vehicle-price">Free</button>
+            <button id="maps-teleport" name-value="MountChiliad" id-value="0" value="0">Teleport</button>
+          </div>
+          <div class='ui-card'>
+            <h4>Grand Senora St</h4>
+            <button id="ui-vehicle-price">Free</button>
+            <button id="maps-teleport" name-value="senora" id-value="0" value="0">Teleport</button>
+          </div>
+        </div>
+      </div>
+      <div id="ui-body-ranks">
+        <h1>Rank &nbsp;Upgrades</h1>
+        <hr>
+        <div id="ui-body-ranks-list">
+          <div class='ui-card'>
+            <h4>Decent Drifter</h4>
+            <button id="ui-vehicle-price">$2.50M</button>
+            <button id="rank-upgrade" name-value="Decent Drifter" id-value="1" value="2500000">Upgrade</button>
+          </div>
+          <div class='ui-card'>
+            <h4>Pro Drifter</h4>
+            <button id="ui-vehicle-price">$4.50M</button>
+            <button id="rank-upgrade" name-value="Pro Drifter" id-value="2" value="4500000">Upgrade</button>
+          </div>
+          <div class='ui-card'>
+            <h4>Drift Instructor</h4>
+            <button id="ui-vehicle-price">$12.50M</button>
+            <button id="rank-upgrade" name-value="Drift Instructor" id-value="3" value="12500000">Upgrade</button>
+          </div>
+          <div class='ui-card'>
+            <h4>Legendary Drifter</h4>
+            <button id="ui-vehicle-price">$27.50M</button>
+            <button  id="rank-upgrade" name-value="Legendary Drifter" id-value="4" value="27500000">Upgrade</button>
+          </div>
+          <div class='ui-card'>
+            <h4>Drift King</h4>
+            <button id="ui-vehicle-price">$69.00M</button>
+            <button id="rank-upgrade" name-value="Drift King" id-value="5" value="69000000">Upgrade</button>
+          </div>
+        </div>
+      </div>
+
+  </div>
+</div>
+<script src="nui://game/ui/jquery.js" type="text/javascript"></script>
+<script src="nui://drift_oasis/html/index.js" type="text/javascript"></script>
+</body>
+</html>

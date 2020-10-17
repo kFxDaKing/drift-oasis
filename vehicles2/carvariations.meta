@@ -1,0 +1,4987 @@
+<?xml version="1.0"?>
+<CVehicleModelInfoVariation>
+	<variationData>
+		<Item>
+			<modelName>apvapd</modelName>
+			<colors>
+				<Item>
+					<indices>
+						<Item value="134" />
+						<Item value="134" />
+						<Item value="0" />
+						<Item value="156" />
+					</indices>
+					<liveries />
+				</Item>
+			</colors>
+			<kits>
+				<Item>1000_apvapd_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges />
+			<plateProbabilities>
+				<Probabilities>
+					<Item>
+						<Name>police guv plate</Name>
+						<Value value="100" />
+					</Item>
+				</Probabilities>
+			</plateProbabilities>
+			<lightSettings value="0" />
+			<sirenSettings value="13337" />
+		</Item>
+		<Item>
+			<modelName>apvap</modelName>
+			<colors>
+				<Item>
+					<indices>
+						<Item value="134" />
+						<Item value="134" />
+						<Item value="0" />
+						<Item value="156" />
+					</indices>
+					<liveries />
+				</Item>
+			</colors>
+			<kits>
+				<Item>1001_apvap_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges />
+			<plateProbabilities>
+				<Probabilities>
+					<Item>
+						<Name>police guv plate</Name>
+						<Value value="100" />
+					</Item>
+				</Probabilities>
+			</plateProbabilities>
+			<lightSettings value="0" />
+			<sirenSettings value="1337" />
+		</Item>
+		<Item>
+			<modelName>sc300</modelName>
+			<colors>
+				<Item>
+					<indices content="char_array">
+            134 
+            134 
+            0 
+            0
+          </indices>
+					<liveries>
+						<Item value="true" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            134 
+            134 
+            0 
+            0
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="true" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            134 
+            134 
+            0 
+            0
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="true" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            134 
+            134 
+            0 
+            0
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="true" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            134 
+            134 
+            0 
+            0
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="true" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            134 
+            134 
+            0 
+            0
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="true" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            134 
+            134 
+            0 
+            0
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="true" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            134 
+            134 
+            0 
+            0
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="true" />
+					</liveries>
+				</Item>
+			</colors>
+			<kits>
+				<Item>1002_sc300_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges />
+			<plateProbabilities>
+				<Probabilities />
+			</plateProbabilities>
+			<lightSettings value="0" />
+			<sirenSettings value="0" />
+		</Item>
+		<Item>
+			<modelName>lexy</modelName>
+			<colors>
+				<Item>
+					<indices content="char_array">
+            134 
+            134 
+            0 
+            0
+          </indices>
+					<liveries>
+						<Item value="true" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            134 
+            134 
+            0 
+            0
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="true" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            134 
+            134 
+            0 
+            0
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="true" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            134 
+            134 
+            0 
+            0
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="true" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            134 
+            134 
+            0 
+            0
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="true" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            134 
+            134 
+            0 
+            0
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="true" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            134 
+            134 
+            0 
+            0
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="true" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            134 
+            134 
+            0 
+            0
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="true" />
+					</liveries>
+				</Item>
+			</colors>
+			<kits>
+				<Item>1003_lexy_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges />
+			<plateProbabilities>
+				<Probabilities />
+			</plateProbabilities>
+			<lightSettings value="0" />
+			<sirenSettings value="0" />
+		</Item>
+		<Item>
+			<modelName>mlex</modelName>
+			<colors>
+				<Item>
+					<indices content="char_array">
+            0 
+            1
+            3
+            0 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            99 
+            1
+            3
+            0 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            116 
+            1
+            3
+            0 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            73 
+            1
+            3
+            0 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            28 
+            1
+            3
+            0 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            49 
+            1
+            3
+            0 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            53 
+            1
+            3
+            0 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            88 
+            1
+            3
+            0 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            14 
+            1
+            3
+            0 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            4 
+            1
+            3
+            0 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            8 
+            1
+            3
+            0 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            5 
+            1
+            3
+            0 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            36 
+            1
+            3
+            0 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+			</colors>
+			<kits>
+				<Item>1006_mlex_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges />
+			<plateProbabilities>
+				<Probabilities>
+					<Item>
+						<Name>Standard White</Name>
+						<Value value="100" />
+					</Item>
+				</Probabilities>
+			</plateProbabilities>
+			<lightSettings value="0" />
+			<sirenSettings value="0" />
+		</Item>
+		<Item>
+			<modelName>hctr</modelName>
+			<colors>
+				<Item>
+					<indices content="char_array">
+            0 
+            0 
+            6 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            2 
+            2 
+            134 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            8 
+            8 
+            134 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            19 
+            19 
+            134 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            31 
+            31 
+            28 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            34 
+            34 
+            28
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            64 
+            64 
+            53
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            73 
+            73 
+            60 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            75 
+            75 
+            60 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            89 
+            89 
+            89 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            107 
+            107 
+            110 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+			</colors>
+			<kits>
+				<Item>1007_hctr_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges />
+			<plateProbabilities>
+				<Probabilities>
+					<Item>
+						<Name>Standard White</Name>
+						<Value value="25" />
+					</Item>
+					<Item>
+						<Name>White Plate 2</Name>
+						<Value value="50" />
+					</Item>
+					<Item>
+						<Name>Blue Plate</Name>
+						<Value value="10" />
+					</Item>
+					<Item>
+						<Name>Yellow Plate</Name>
+						<Value value="15" />
+					</Item>
+				</Probabilities>
+			</plateProbabilities>
+			<lightSettings value="0" />
+			<sirenSettings value="0" />
+		</Item>
+		<Item>
+			<modelName>tico</modelName>
+			<colors>
+				<Item>
+					<indices content="char_array">
+            126 
+            138 
+            138 
+            112
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            31 
+            39 
+            36 
+            112 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            49 
+            75 
+            73 
+            112
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            79 
+            79 
+            0 
+            112
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            54 
+            54 
+            67 
+            112
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            50 
+            53 
+            57
+            112 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            104 
+            30 
+            36 
+            112
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            4 
+            4 
+            111  
+            112
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            71 
+            71 
+            145
+            112
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            38 
+            123 
+            123 
+            112
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+			</colors>
+			<kits>
+				<Item>1008_tico_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges />
+			<plateProbabilities>
+				<Probabilities>
+					<Item>
+						<Name>Standard White</Name>
+						<Value value="90" />
+					</Item>
+					<Item>
+						<Name>White Plate 2</Name>
+						<Value value="10" />
+					</Item>
+					<Item>
+						<Name>Blue Plate</Name>
+						<Value value="0" />
+					</Item>
+					<Item>
+						<Name>Yellow Plate</Name>
+						<Value value="0" />
+					</Item>
+				</Probabilities>
+			</plateProbabilities>
+			<lightSettings value="0" />
+			<sirenSettings value="0" />
+		</Item>
+		<Item>
+			<modelName>evo6</modelName>
+			<colors>
+				<Item>
+					<indices content="char_array">
+            0 
+            0 
+            0 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            1 
+            0 
+            4 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            6 
+            0 
+            111 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            3 
+            3 
+            5 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            5 
+            5 
+            111 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            111 
+            111 
+            111 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            7 
+            7 
+            5 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            0 
+            13 
+            93 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            34 
+            34 
+            36 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            31 
+            0 
+            41 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            130 
+            12 
+            130 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            72 
+            72 
+            73 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            88 
+            2 
+            89 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            28 
+            12 
+            36 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            12 
+            12 
+            0 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            39 
+            0 
+            0 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+			</colors>
+			<kits>
+				<Item>1009_evo6_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges />
+			<plateProbabilities>
+				<Probabilities>
+					<Item>
+						<Name>Standard White</Name>
+						<Value value="100" />
+					</Item>
+				</Probabilities>
+			</plateProbabilities>
+			<lightSettings value="0" />
+			<sirenSettings value="0" />
+		</Item>
+		<Item>
+			<modelName>evo9</modelName>
+			<colors>
+				<Item>
+					<indices content="char_array">
+            27 
+            0 
+            0 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            27 
+            31 
+            31 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            63 
+            63 
+            5 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            4 
+            4 
+            111 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            27 
+            72 
+            31 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            111 
+            111 
+            0 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            30 
+            30 
+            36 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            0 
+            0 
+            1 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            2 
+            111 
+            4 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            7 
+            0 
+            5 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            5 
+            0 
+            111 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            36 
+            0 
+            41 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            13 
+            0 
+            0 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+			</colors>
+			<kits>
+				<Item>1010_evo9_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges />
+			<plateProbabilities>
+				<Probabilities>
+					<Item>
+						<Name>Standard White</Name>
+						<Value value="25" />
+					</Item>
+					<Item>
+						<Name>White Plate 2</Name>
+						<Value value="50" />
+					</Item>
+					<Item>
+						<Name>Blue Plate</Name>
+						<Value value="10" />
+					</Item>
+					<Item>
+						<Name>Yellow Plate</Name>
+						<Value value="15" />
+					</Item>
+				</Probabilities>
+			</plateProbabilities>
+			<lightSettings value="0" />
+			<sirenSettings value="0" />
+		</Item>
+		<Item>
+			<modelName>robin</modelName>
+			<colors>
+				<Item>
+					<indices content="char_array">
+            122
+            122
+            149
+            146
+          </indices>
+					<liveries>
+						<Item value="true" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            52
+            52
+            14
+            146
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="true" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            8
+            8
+            150
+            146
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="true" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            9
+            9
+            126
+            146
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="true" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            17
+            17
+            26
+            146
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="true" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            98
+            988
+            113
+            146
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="true" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+			</colors>
+			<kits>
+				<Item>1011_robin_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges />
+			<plateProbabilities>
+				<Probabilities>
+					<Item>
+						<Name>Standard White</Name>
+						<Value value="25" />
+					</Item>
+					<Item>
+						<Name>White Plate 2</Name>
+						<Value value="50" />
+					</Item>
+					<Item>
+						<Name>Blue Plate</Name>
+						<Value value="10" />
+					</Item>
+					<Item>
+						<Name>Yellow Plate</Name>
+						<Value value="15" />
+					</Item>
+				</Probabilities>
+			</plateProbabilities>
+			<lightSettings value="0" />
+			<sirenSettings value="0" />
+		</Item>
+		<Item>
+			<modelName>rx72</modelName>
+			<colors>
+				<Item>
+					<indices content="char_array">
+            28
+            28
+            0 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            88 
+            88 
+            0
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            52 
+            52 
+            0
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            64 
+            64
+            0
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            112 
+            112
+            0
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            4 
+            4
+            0
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+			</colors>
+			<kits>
+				<Item>9012_rx72_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges />
+			<plateProbabilities>
+				<Probabilities>
+					<Item>
+						<Name>Standard White</Name>
+						<Value value="25" />
+					</Item>
+					<Item>
+						<Name>White Plate 2</Name>
+						<Value value="50" />
+					</Item>
+					<Item>
+						<Name>Blue Plate</Name>
+						<Value value="10" />
+					</Item>
+					<Item>
+						<Name>Yellow Plate</Name>
+						<Value value="15" />
+					</Item>
+				</Probabilities>
+			</plateProbabilities>
+			<lightSettings value="0" />
+			<sirenSettings value="0" />
+		</Item>
+		<Item>
+			<modelName>rx7</modelName>
+			<colors>
+				<Item>
+					<indices content="char_array">
+            28
+            28
+            0 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            88 
+            88 
+            0
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            52 
+            52 
+            0
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            64 
+            64
+            0
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            112 
+            112
+            0
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            4 
+            4
+            0
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+			</colors>
+			<kits>
+				<Item>1013_rx7_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges />
+			<plateProbabilities>
+				<Probabilities>
+					<Item>
+						<Name>Standard White</Name>
+						<Value value="25" />
+					</Item>
+					<Item>
+						<Name>White Plate 2</Name>
+						<Value value="50" />
+					</Item>
+					<Item>
+						<Name>Blue Plate</Name>
+						<Value value="10" />
+					</Item>
+					<Item>
+						<Name>Yellow Plate</Name>
+						<Value value="15" />
+					</Item>
+				</Probabilities>
+			</plateProbabilities>
+			<lightSettings value="0" />
+			<sirenSettings value="0" />
+		</Item>
+		<Item>
+			<modelName>ns13</modelName>
+			<colors>
+				<Item>
+					<indices content="char_array">
+            111 
+            111 
+            111
+            156
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            0 
+            0 
+            0 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            142 
+            145 
+            145 
+            156
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            29
+            29 
+            29 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            27 
+            145 
+            145 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            42 
+            42 
+            88
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            37 
+            42 
+            42
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            92 
+            92
+            92 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            112 
+            112 
+            112 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            127 
+            127 
+            127 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            70 
+            70 
+            70 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+			</colors>
+			<kits>
+				<Item>2014_ns13_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges />
+			<plateProbabilities>
+				<Probabilities>
+					<Item>
+						<Name>Standard White</Name>
+						<Value value="25" />
+					</Item>
+					<Item>
+						<Name>White Plate 2</Name>
+						<Value value="50" />
+					</Item>
+					<Item>
+						<Name>Blue Plate</Name>
+						<Value value="10" />
+					</Item>
+					<Item>
+						<Name>Yellow Plate</Name>
+						<Value value="15" />
+					</Item>
+				</Probabilities>
+			</plateProbabilities>
+			<lightSettings value="0" />
+			<sirenSettings value="0" />
+		</Item>
+		<Item>
+			<modelName>e36dm</modelName>
+			<colors>
+				<Item>
+					<indices content="char_array">
+            28 
+            28 
+            28
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            31 
+            31 
+            28
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            89 
+            89 
+            89
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            50 
+            89 
+            53
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+			</colors>
+			<kits>
+				<Item>1015_e36dm_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges />
+			<plateProbabilities>
+				<Probabilities>
+					<Item>
+						<Name>Standard White</Name>
+						<Value value="100" />
+					</Item>
+				</Probabilities>
+			</plateProbabilities>
+			<lightSettings value="0" />
+			<sirenSettings value="0" />
+		</Item>
+		<Item>
+			<modelName>e36dmcam</modelName>
+			<colors>
+				<Item>
+					<indices content="char_array">
+            28 
+            28 
+            28
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            31 
+            31 
+            28
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            89 
+            89 
+            89
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            50 
+            89 
+            53
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+			</colors>
+			<kits>
+				<Item>1016_e36dmcam_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges />
+			<plateProbabilities>
+				<Probabilities>
+					<Item>
+						<Name>Standard White</Name>
+						<Value value="100" />
+					</Item>
+				</Probabilities>
+			</plateProbabilities>
+			<lightSettings value="0" />
+			<sirenSettings value="0" />
+		</Item>
+		<Item>
+			<modelName>180typex</modelName>
+			<colors>
+				<Item>
+					<indices content="char_array">
+            3 
+            75 
+            6 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            89 
+            107 
+            134 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            3 
+            3 
+            134 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            4 
+            4 
+            134 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            9 
+            10 
+            28 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            11 
+            12 
+            28
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            65 
+            64 
+            53
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            73 
+            73 
+            60 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            75 
+            75 
+            60 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            89 
+            89 
+            89 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            107 
+            107 
+            110 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+			</colors>
+			<kits>
+				<Item>1017_180typex_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges />
+			<plateProbabilities>
+				<Probabilities>
+					<Item>
+						<Name>Standard White</Name>
+						<Value value="25" />
+					</Item>
+					<Item>
+						<Name>White Plate 2</Name>
+						<Value value="50" />
+					</Item>
+					<Item>
+						<Name>Blue Plate</Name>
+						<Value value="10" />
+					</Item>
+					<Item>
+						<Name>Yellow Plate</Name>
+						<Value value="15" />
+					</Item>
+				</Probabilities>
+			</plateProbabilities>
+			<lightSettings value="0" />
+			<sirenSettings value="0" />
+		</Item>
+		<Item>
+			<modelName>s2k</modelName>
+			<colors>
+				<Item>
+					<indices content="char_array">
+            111 
+            111 
+            111
+            156
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            0 
+            0 
+            0 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            142 
+            145 
+            145 
+            156
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            29
+            29 
+            29 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            27 
+            145 
+            145 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            42 
+            42 
+            88
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            37 
+            42 
+            42
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            92 
+            92
+            92 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            112 
+            112 
+            112 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            127 
+            127 
+            127 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            70 
+            70 
+            70 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+			</colors>
+			<kits>
+				<Item>1018_s2k_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges />
+			<plateProbabilities>
+				<Probabilities>
+					<Item>
+						<Name>Standard White</Name>
+						<Value value="25" />
+					</Item>
+					<Item>
+						<Name>White Plate 2</Name>
+						<Value value="50" />
+					</Item>
+					<Item>
+						<Name>Blue Plate</Name>
+						<Value value="10" />
+					</Item>
+					<Item>
+						<Name>Yellow Plate</Name>
+						<Value value="15" />
+					</Item>
+				</Probabilities>
+			</plateProbabilities>
+			<lightSettings value="0" />
+			<sirenSettings value="0" />
+		</Item>
+		<Item>
+			<modelName>RuinerFD</modelName>
+			<colors>
+				<Item>
+					<indices content="char_array">
+            0 
+            0 
+            0 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            1 
+            1 
+            4 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            2 
+            2 
+            7 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            3 
+            3 
+            23 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            4 
+            4 
+            111 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            111 
+            111 
+            111 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            5 
+            5 
+            111 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            73 
+            73 
+            74 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            34 
+            34 
+            44 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            31 
+            31 
+            36 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            71 
+            71 
+            74 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            66 
+            66 
+            67 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            5 
+            5 
+            111 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            11 
+            11 
+            6 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            111 
+            111 
+            0 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+			</colors>
+			<kits>
+				<Item>1019_RuinerFD_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges />
+			<plateProbabilities>
+				<Probabilities>
+					<Item>
+						<Name>Standard White</Name>
+						<Value value="25" />
+					</Item>
+					<Item>
+						<Name>White Plate 2</Name>
+						<Value value="50" />
+					</Item>
+					<Item>
+						<Name>Blue Plate</Name>
+						<Value value="10" />
+					</Item>
+					<Item>
+						<Name>Yellow Plate</Name>
+						<Value value="15" />
+					</Item>
+				</Probabilities>
+			</plateProbabilities>
+			<lightSettings value="0" />
+			<sirenSettings value="0" />
+		</Item>
+		<Item>
+			<modelName>cresta</modelName>
+			<colors>
+				<Item>
+					<indices content="char_array">
+            147
+            27
+            0
+            120
+            0
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+			</colors>
+			<kits>
+				<Item>1020_cresta_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges />
+			<plateProbabilities>
+				<Probabilities>
+					<Item>
+						<Name>Blue Plate</Name>
+						<Value value="50" />
+					</Item>
+					<Item>
+						<Name>Yellow Plate</Name>
+						<Value value="50" />
+					</Item>
+				</Probabilities>
+			</plateProbabilities>
+			<lightSettings value="0" />
+			<sirenSettings value="0" />
+		</Item>
+		<Item>
+			<modelName>na6</modelName>
+			<colors>
+				<Item>
+					<indices content="char_array">
+            38
+            5
+            0
+            2
+          </indices>
+					<liveries>
+						<Item value="true" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            29
+            158
+            0
+            0
+          </indices>
+					<liveries>
+						<Item value="true" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            4
+            154
+            4
+            2
+          </indices>
+					<liveries>
+						<Item value="true" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            0
+            154
+            10
+            2
+          </indices>
+					<liveries>
+						<Item value="true" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            4
+            154
+            4
+            2
+          </indices>
+					<liveries>
+						<Item value="true" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            29
+            158
+            0
+            0
+          </indices>
+					<liveries>
+						<Item value="true" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+			</colors>
+			<kits>
+				<Item>1021_na6_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges />
+			<plateProbabilities>
+				<Probabilities>
+					<Item>
+						<Name>Standard White</Name>
+						<Value value="25" />
+					</Item>
+					<Item>
+						<Name>White Plate 2</Name>
+						<Value value="50" />
+					</Item>
+					<Item>
+						<Name>Blue Plate</Name>
+						<Value value="10" />
+					</Item>
+					<Item>
+						<Name>Yellow Plate</Name>
+						<Value value="15" />
+					</Item>
+				</Probabilities>
+			</plateProbabilities>
+			<lightSettings value="0" />
+			<sirenSettings value="0" />
+		</Item>
+		<Item>
+			<modelName>xbow</modelName>
+			<colors>
+				<Item>
+					<indices content="char_array">
+            36
+            0
+            38
+            0
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+			</colors>
+			<kits>
+				<Item>1022_xbow_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges />
+			<plateProbabilities>
+				<Probabilities>
+					<Item>
+						<Name>Yellow Plate</Name>
+						<Value value="15" />
+					</Item>
+				</Probabilities>
+			</plateProbabilities>
+			<lightSettings value="0" />
+			<sirenSettings value="0" />
+		</Item>
+		<Item>
+			<modelName>brzrbv3</modelName>
+			<colors>
+				<Item>
+					<indices content="char_array">
+            112
+            38
+            0
+            147
+            0
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+			</colors>
+			<kits>
+				<Item>1023_brzrbv3_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges />
+			<plateProbabilities>
+				<Probabilities>
+					<Item>
+						<Name>Standard White</Name>
+						<Value value="100" />
+					</Item>
+				</Probabilities>
+			</plateProbabilities>
+			<lightSettings value="0" />
+			<sirenSettings value="0" />
+		</Item>
+		<Item>
+			<modelName>350zrb</modelName>
+			<colors>
+				<Item>
+					<indices content="char_array">
+            31 
+            31 
+            31 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            6 
+            6 
+            111 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            63 
+            63 
+            5 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            4 
+            4 
+            111 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            72 
+            72 
+            65 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            111 
+            111 
+            0 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            30 
+            30 
+            36 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            0 
+            0 
+            1 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            2 
+            111 
+            4 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            7 
+            0 
+            5 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            5 
+            0 
+            111 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            36 
+            0 
+            41 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            13 
+            0 
+            0 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+			</colors>
+			<kits>
+				<Item>1024_350zrb_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges />
+			<plateProbabilities>
+				<Probabilities>
+					<Item>
+						<Name>Standard White</Name>
+						<Value value="100" />
+					</Item>
+				</Probabilities>
+			</plateProbabilities>
+			<lightSettings value="0" />
+			<sirenSettings value="0" />
+		</Item>
+		<Item>
+			<modelName>ps30</modelName>
+			<colors>
+				<Item>
+					<indices content="char_array">
+            134
+            134
+            0
+            0
+          </indices>
+					<liveries>
+						<Item value="true" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+			</colors>
+			<kits>
+				<Item>1025_ps30_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges />
+			<plateProbabilities>
+				<Probabilities>
+					<Item>
+						<Name>Yellow Plate</Name>
+						<Value value="15" />
+					</Item>
+				</Probabilities>
+			</plateProbabilities>
+			<lightSettings value="0" />
+			<sirenSettings value="0" />
+		</Item>
+		<Item>
+			<modelName>gs350</modelName>
+			<colors>
+				<Item>
+					<indices content="char_array">
+            001
+            112 
+            112
+            0
+          </indices>
+					<liveries>
+						<Item value="true" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+			</colors>
+			<kits>
+				<Item>1026_gs350_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges />
+			<plateProbabilities>
+				<Probabilities />
+			</plateProbabilities>
+			<lightSettings value="0" />
+			<sirenSettings value="0" />
+		</Item>
+		<Item>
+			<modelName>rcf</modelName>
+			<colors>
+				<Item>
+					<indices content="char_array">
+            27 
+            0 
+            0 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            27 
+            31 
+            31 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            63 
+            63 
+            5 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            4 
+            4 
+            111 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            27 
+            72 
+            31 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            111 
+            111 
+            0 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            30 
+            30 
+            36 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            0 
+            0 
+            1 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            2 
+            111 
+            4 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            7 
+            0 
+            5 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            5 
+            0 
+            111 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            36 
+            0 
+            41 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            13 
+            0 
+            0 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+			</colors>
+			<kits>
+				<Item>1027_rcf_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges />
+			<plateProbabilities>
+				<Probabilities>
+					<Item>
+						<Name>Standard White</Name>
+						<Value value="25" />
+					</Item>
+					<Item>
+						<Name>White Plate 2</Name>
+						<Value value="50" />
+					</Item>
+					<Item>
+						<Name>Blue Plate</Name>
+						<Value value="10" />
+					</Item>
+					<Item>
+						<Name>Yellow Plate</Name>
+						<Value value="15" />
+					</Item>
+				</Probabilities>
+			</plateProbabilities>
+			<lightSettings value="0" />
+			<sirenSettings value="0" />
+		</Item>
+		<Item>
+			<modelName>warrener3</modelName>
+			<colors>
+				<Item>
+					<indices content="char_array">
+            0 
+            0 
+            0 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            1 
+            1 
+            4 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            2 
+            2 
+            7 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            3 
+            3 
+            23 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            4 
+            4 
+            111 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            111 
+            111 
+            111 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            5 
+            5 
+            111 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            73 
+            73 
+            74 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            34 
+            34 
+            44 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            31 
+            31 
+            36 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            71 
+            71 
+            74 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            66 
+            66 
+            67 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            5 
+            5 
+            111 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            11 
+            11 
+            6 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            111 
+            111 
+            0 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+			</colors>
+			<kits>
+				<Item>1028_warrener3_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges />
+			<plateProbabilities>
+				<Probabilities>
+					<Item>
+						<Name>Standard White</Name>
+						<Value value="25" />
+					</Item>
+					<Item>
+						<Name>White Plate 2</Name>
+						<Value value="50" />
+					</Item>
+					<Item>
+						<Name>Blue Plate</Name>
+						<Value value="10" />
+					</Item>
+					<Item>
+						<Name>Yellow Plate</Name>
+						<Value value="15" />
+					</Item>
+				</Probabilities>
+			</plateProbabilities>
+			<lightSettings value="0" />
+			<sirenSettings value="0" />
+		</Item>
+		<Item>
+			<modelName>eclipse</modelName>
+			<colors>
+				<Item>
+					<indices content="char_array">
+            0 
+            0 
+            0 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            1 
+            0 
+            4 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            6 
+            0 
+            111 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            3 
+            3 
+            5 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            5 
+            5 
+            111 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            111 
+            111 
+            111 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            7 
+            7 
+            5 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            0 
+            13 
+            93 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            34 
+            34 
+            36 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            31 
+            0 
+            41 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            130 
+            12 
+            130 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            72 
+            72 
+            73 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            88 
+            2 
+            89 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            28 
+            12 
+            36 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            12 
+            12 
+            0 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            39 
+            0 
+            0 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+			</colors>
+			<kits>
+				<Item>1029_eclipse_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges />
+			<plateProbabilities>
+				<Probabilities>
+					<Item>
+						<Name>Standard White</Name>
+						<Value value="100" />
+					</Item>
+				</Probabilities>
+			</plateProbabilities>
+			<lightSettings value="0" />
+			<sirenSettings value="0" />
+		</Item>
+		<Item>
+			<modelName>vivio</modelName>
+			<colors>
+				<Item>
+					<indices content="char_array">
+            0 
+            0 
+            0 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            1 
+            0 
+            4 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            6 
+            0 
+            111 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            3 
+            3 
+            5 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            5 
+            5 
+            111 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            111 
+            111 
+            111 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            7 
+            7 
+            5 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            0 
+            13 
+            93 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            34 
+            34 
+            36 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            31 
+            0 
+            41 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            130 
+            12 
+            130 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            72 
+            72 
+            73 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            88 
+            2 
+            89 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            28 
+            12 
+            36 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            12 
+            12 
+            0 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+            39 
+            0 
+            0 
+            156 
+          </indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+			</colors>
+			<kits>
+				<Item>1030_vivio_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges />
+			<plateProbabilities>
+				<Probabilities>
+					<Item>
+						<Name>Standard White</Name>
+						<Value value="100" />
+					</Item>
+				</Probabilities>
+			</plateProbabilities>
+			<lightSettings value="0" />
+			<sirenSettings value="0" />
+		</Item>
+	</variationData>
+</CVehicleModelInfoVariation>

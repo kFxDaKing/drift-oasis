@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400');
+@font-face {
+	font-family: 'Master';
+	src: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/455279/master_of_break.otf') format('embedded-opentype'), 
+	     url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/455279/master_of_break.ttf') format("truetype");
+}
+body {
+  margin: 0;
+}
+.bg {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background-image: url("https://i.imgur.com/Jq5I5zY.jpg");
+  background-repeat: no-repeat;
+  -webkit-background-size: cover; 
+  -moz-background-size: cover;
+  background-size: cover;
+  filter: sepia(20%) contrast(110%) hue-rotate(10deg);
+}
+#mainframe {
+  border-radius: 3px;
+  width: 65em;
+  min-width: 52em;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  -webkit-perspective: 500px;
+  -ms-perspective: 500px;
+  perspective: 500px;
+}
+.banner {
+  text-align: center;
+  text-shadow: 0 0 5px white, 0 0 10px white;
+}
+.banner p {
+  font-family: 'Master';
+  color: white;
+  text-align: center;
+  font-size: 7em;
+  display: inline-block;
+  margin: 0 0 0.1em 0;
+  -webkit-transform: rotateY(10deg);
+  transform: rotateY(10deg);
+}
+#container {
+  width: auto;
+  padding: 1em 1em 2em 1em;
+  height: 30em;
+}
+.block {
+  width: 48%;
+  display: inline-block;
+  border-radius: 3px;
+  float: left;
+  padding: 0.2em;
+  -webkit-transform: rotateY(10deg);
+  transform: rotateY(10deg);
+  -ms-transform: rotateY(10deg);
+  -webkit-transition: transform 1s;
+}
+.block:nth-child(2) {
+  float: right;
+  -webkit-transform: rotateY(-10deg);
+  -moz-transform: rotateY(-10deg);
+  -ms-transform: rotateY(-10deg);
+  transform: rotateY(-10deg);
+}
+.block:hover {
+  -webkit-transition: transform 1s;
+  behavior:url(-ms-transform.htc); 
+  -webkit-transform: rotateY(0deg);
+  -moz-transform: rotateY(0deg);
+  -ms-transform: rotateY(0deg);
+  transform: rotateY(0deg);
+}
+.text {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  color: white;
+  position: relative;
+  background-color: rgba(255, 255, 255, 0.20);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  margin: 0 0 0.3em 0;
+  padding: 1em;
+  border-radius: 3px;
+}
+.infohold {
+  display: none;
+  background-color: rgba(255, 255, 255, 0.20);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  border-radius: 3px;
+  padding: 2em 0 2em 0;
+}
+.wbg {
+  height: 10em;
+  width: 10em;
+  margin: 0 auto 0 auto;
+  padding: 1px;
+
+}
+.propic {
+  background-image: url("https://i.imgur.com/NrygZna.png");
+  background-size: 100% 100%;
+  height: 100%;
+  width: 100%;
+
+}
+.name {
+  color: white;
+  text-shadow: 0 0 1px white;
+  font-size: 36px;
+  text-align: center;
+  font-family: 'Master';
+  margin: 0.2em 0 0.2em 0;
+}
+.steamid {
+  display: none;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  text-shadow: 0 0 1px silver;
+  font-size: 26px;
+  text-align: center;
+  font-weight: 300;
+  margin: 0.2em auto 0 auto;
+  padding: 0.3em;
+  width: 90%;
+  border-radius: 3px;
+  bottom: 0;
+  box-shadow: inset 0px 0px 10px 0px rgba(0,0,0,0.40);
+  -webkit-box-shadow: inset 0px 0px 10px 0px rgba(0,0,0,0.40);
+  -moz-box-shadow: inset 0px 0px 10px 0px rgba(0,0,0,0.40);
+  -o-box-shadow: inset 0px 0px 10px 0px rgba(0,0,0,0.40);
+}
+
+.loadbar
+{
+    width: 100%;
+    background-color: rgba(140, 140, 140, .9);
+    height: 20px;
+
+    margin-left: 2px;
+    margin-right: 3px;
+
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+    overflow: hidden;
+
+    position: relative;
+
+    display: block;
+}
+
+.thingy
+{
+    width: 3%;
+    background-color: #eee;
+    height: 20px;
+
+    position: absolute;
+    left: 0%;
+}
+
+.letni
+{
+    position: absolute;
+    left: 5%;
+    right: 5%;
+    bottom: 10%;
+
+    z-index: 5;
+
+    color: #fff;
+
+    font-family: "Segoe UI";
+}
+
+.letni p
+{
+    font-size: 22px;
+
+    margin-left: 3px;
+
+    margin-top: 0px;
+}
+
+.letni h2, .letni h3
+{
+    font-family: BankGothic;
+
+    text-transform: uppercase;
+
+    font-size: 50px;
+
+    margin: 0px;
+
+    display: inline-block;
+}
