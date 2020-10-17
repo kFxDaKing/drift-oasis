@@ -16,7 +16,7 @@ Hello, I am releasing this gamemode because I need to free up a little time to w
 
 
 **Upcoming features:**
-* Group race to x value of points
+* Group race to x value of points.
 * Saving of highest drift combos for each map. 
 * Announcing when a high score for a map was broken.
 * Proper User system
@@ -40,4 +40,5 @@ https://www.loom.com/share/84dfe9834a25441cba71b3689054aa2b
 
 Want to see more of my work?
 [Crimelab Rroleplay](https://crimelabroleplay.com/)([165.22.232.187:30120](fivem://connect/165.22.232.187:30120))
+
 [Drift Oasis](https://driftoasis.com/)([74.91.116.62:30120](fivem://connect/74.91.116.62:30120))
